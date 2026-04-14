@@ -1,2 +1,3 @@
 ﻿  source.c
-  Program3.vcxproj -> C:\Users\huije\OneDrive\바탕 화면\Program3\x64\Debug\Program3.exe
+C:\Users\huije\OneDrive\바탕 화면\re_sbs6\Program3\source.c(11,10): warning C4013: 'rand' undefined; assuming extern returning int
+  Program3.vcxproj -> C:\Users\huije\OneDrive\바탕 화면\re_sbs6\Program3\x64\Debug\Program3.exe

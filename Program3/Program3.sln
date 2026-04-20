@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program3", "Program3.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1th(Input System)", "..\Class1th(Input System)\Class1th(Input System).vcxproj", "{2A556824-9880-4165-B514-D26253F32D42}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3th(File Input & Output)", "..\Class3th(File Input & Output)\Class3th(File Input & Output).vcxproj", "{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{2A556824-9880-4165-B514-D26253F32D42}.Release|x64.Build.0 = Release|x64
 		{2A556824-9880-4165-B514-D26253F32D42}.Release|x86.ActiveCfg = Release|Win32
 		{2A556824-9880-4165-B514-D26253F32D42}.Release|x86.Build.0 = Release|Win32
+		{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}.Debug|x64.ActiveCfg = Debug|x64
+		{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}.Debug|x64.Build.0 = Debug|x64
+		{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}.Debug|x86.Build.0 = Debug|Win32
+		{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}.Release|x64.ActiveCfg = Release|x64
+		{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}.Release|x64.Build.0 = Release|x64
+		{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}.Release|x86.ActiveCfg = Release|Win32
+		{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

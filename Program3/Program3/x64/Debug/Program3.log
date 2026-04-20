@@ -1,2 +1,3 @@
 ﻿  source.c
+C:\Users\huije\OneDrive\바탕 화면\re_sbs6\Program3\source.c(17,20): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
   Program3.vcxproj -> C:\Users\huije\OneDrive\바탕 화면\re_sbs6\Program3\x64\Debug\Program3.exe

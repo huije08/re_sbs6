@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{290FD719-8464-4611-966A-3C64B2C06B55}|Program3.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EB97EE3C-1272-4DC0-9064-2BA3057C5B63}|..\\Class4th (Color System)\\Class4th (Color System).vcxproj|C:\\Users\\huije\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\re_sbs6\\Class4th (Color System)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}|..\\Class3th(File Input \u0026 Output)\\Class3th(File Input \u0026 Output).vcxproj|C:\\Users\\huije\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\re_sbs6\\Class3th(File Input \u0026 Output)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -23,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\huije\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\re_sbs6\\Class4th (Color System)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class4th (Color System)\\source.cpp",
+              "ToolTip": "C:\\Users\\huije\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\re_sbs6\\Class4th (Color System)\\source.cpp",
+              "RelativeToolTip": "..\\Class4th (Color System)\\source.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T10:30:05.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\huije\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\re_sbs6\\Class3th(File Input \u0026 Output)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th(File Input \u0026 Output)\\source.cpp",
@@ -35,12 +51,11 @@
               "RelativeToolTip": "..\\Class3th(File Input \u0026 Output)\\source.cpp",
               "ViewState": "AgIAABcAAAAAAAAAAAAuwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-20T10:37:24.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T10:37:24.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\huije\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\re_sbs6\\Class1th(Input System)\\source.c",
               "RelativeDocumentMoniker": "..\\Class1th(Input System)\\source.c",
@@ -52,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
@@ -70,7 +85,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\huije\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\re_sbs6\\Program3\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-13T09:07:30.66Z",
               "EditorCaption": ""

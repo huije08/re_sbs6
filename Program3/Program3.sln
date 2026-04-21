@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1th(Input System)", ".
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3th(File Input & Output)", "..\Class3th(File Input & Output)\Class3th(File Input & Output).vcxproj", "{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4th (Color System)", "..\Class4th (Color System)\Class4th (Color System).vcxproj", "{EB97EE3C-1272-4DC0-9064-2BA3057C5B63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}.Release|x64.Build.0 = Release|x64
 		{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}.Release|x86.ActiveCfg = Release|Win32
 		{ECC3022E-EFB3-4F3A-9F59-CC377C10D2F3}.Release|x86.Build.0 = Release|Win32
+		{EB97EE3C-1272-4DC0-9064-2BA3057C5B63}.Debug|x64.ActiveCfg = Debug|x64
+		{EB97EE3C-1272-4DC0-9064-2BA3057C5B63}.Debug|x64.Build.0 = Debug|x64
+		{EB97EE3C-1272-4DC0-9064-2BA3057C5B63}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB97EE3C-1272-4DC0-9064-2BA3057C5B63}.Debug|x86.Build.0 = Debug|Win32
+		{EB97EE3C-1272-4DC0-9064-2BA3057C5B63}.Release|x64.ActiveCfg = Release|x64
+		{EB97EE3C-1272-4DC0-9064-2BA3057C5B63}.Release|x64.Build.0 = Release|x64
+		{EB97EE3C-1272-4DC0-9064-2BA3057C5B63}.Release|x86.ActiveCfg = Release|Win32
+		{EB97EE3C-1272-4DC0-9064-2BA3057C5B63}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

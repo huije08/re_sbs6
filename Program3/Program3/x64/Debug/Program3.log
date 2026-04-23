@@ -1,3 +1,2 @@
 ﻿  source.c
-C:\Users\huije\OneDrive\바탕 화면\re_sbs6\Program3\source.c(96,41): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
   Program3.vcxproj -> C:\Users\huije\OneDrive\바탕 화면\re_sbs6\Program3\x64\Debug\Program3.exe
